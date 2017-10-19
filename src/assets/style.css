@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+#app {
+	background: hsl(216, 13%, 25%);
+  padding: 5% 0;
+	color: lightgrey;
+}
+
+.component {
+	background: #21252b;
+	box-sizing: border-box;
+  padding: 20px;
+  border: solid 1px lightgrey;
+	border-radius: 10px;
+}
