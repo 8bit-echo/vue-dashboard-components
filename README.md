@@ -1,6 +1,6 @@
-# draggable-ui
+# Vue Dashboard Compoents
 
-> A Vue.js project
+> A playground for dahboard components using d3 and Vue
 
 ## Build Setup
 
